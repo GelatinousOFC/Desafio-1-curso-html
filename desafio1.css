@@ -1,0 +1,27 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.img {
+    position: absolute;
+    left: 1029px;
+    top: 573px;
+}
+
+.aka {
+    position: fixed;
+}
+
+.aud {
+    position: absolute;
+    top: 603px;
+    left: 603px;
+}
+
+#m1 {
+    position: absolute;
+    background-color: rgb(151, 24, 24);
+    color: rgb(78, 243, 255);
+    border-radius: 50%;
+}
